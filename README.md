@@ -1,4 +1,4 @@
-# Audiobook Caption Generator and Uploader (upload not working yet)
+# Audiobook Caption Generator and Uploader (this has been solved and posted here https://github.com/cerinawithasea1/telegram-audiobook-tools )
 
 A Python tool that automatically extracts metadata from M4B audiobooks, generates formatted captions, and uploads them to Telegram. Ideal for organizing and backing up your audiobook collection with consistent, metadata-rich captions.
 
